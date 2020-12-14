@@ -1,5 +1,5 @@
 #                              Rakeb Mekuria 
-## 206-741-6910|Rakeb.yo01@Gmail.com|Burien,WA 98168
+##### 206-741-6910 | Burien,WA 98168 | Rakeb.yo01@Gmail.com | https://www.linkedin.com/in/rakeb-wondemagaganhu-57a93ba6/ | https://github.com/RakebWM/Rakeb.Mekuria-Resume-.git
 ## Professional Summary
 * Highly skilled in decision making and problem-solving skills. 	
 * Highly skilled in decision making and problem-solving skills. 
