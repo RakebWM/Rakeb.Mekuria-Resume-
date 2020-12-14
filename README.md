@@ -1,6 +1,5 @@
 #                              Rakeb Mekuria 
 ## 206-741-6910|Rakeb.yo01@Gmail.com|Burien,WA 98168
-## Obejective 
 ## Professional Summary
 * Highly skilled in decision making and problem-solving skills. 	
 * Highly skilled in decision making and problem-solving skills. 
