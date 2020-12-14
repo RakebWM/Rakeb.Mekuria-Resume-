@@ -26,7 +26,9 @@ Relational Database Models and data integrity, SQL Joins, and query writing.
 * Knowledgeable on the Azure and Azure DevOps Environment 
 * Experienced working with Data Warehouse Tools  
 * Proficient in leveraging relational and reporting databases and databases concepts. 
-* Ability to recognize and manage project tradeoffs based on time, priority, scope, sustainability, efficiency, urgency, and impact.                                              * Experience in Agile working environments
+* Ability to recognize and manage project tradeoffs based on time, priority, scope, sustainability,
+  efficiency, urgency, and impact.                                              
+* Experience in Agile working environments
 * Administrative support
 * Experienced with power BI 
 ## Professional Experiance
